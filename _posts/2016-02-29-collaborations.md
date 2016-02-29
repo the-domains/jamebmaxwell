@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T08:11:50.837Z'
-dateModified: '2016-02-29T08:11:49.024Z'
+datePublished: '2016-02-29T08:12:40.292Z'
+dateModified: '2016-02-29T08:12:26.920Z'
 title: Collaborations
 author: []
 sourcePath: _posts/2016-02-29-collaborations.md
@@ -55,6 +55,6 @@ https://vimeo.com/49710553
 
 Allison Beda: filmaker, Claire French: choreographer
 
-Dancer: Jennifer Clarke ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2407aa1-c441-4ab4-83f4-6900784e3e33.jpg)
+Dancer: Jennifer Clarke ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eff75430-9d17-46c2-9532-cd857c019754.jpg)
 
 [0]: http://www.hadleyandmaxwell.net/standing-wave-seance-2/

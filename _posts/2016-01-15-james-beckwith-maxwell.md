@@ -17,8 +17,8 @@ keywords:
   - cello
   - nesselroad
 description: '"To listen is to be at the same time outside and inside, to be open from without and from within, hence from one to the other and from one in the other."'
-datePublished: '2016-02-29T02:21:45.195Z'
-dateModified: '2016-02-29T02:21:35.820Z'
+datePublished: '2016-02-29T08:01:33.855Z'
+dateModified: '2016-02-29T08:01:29.525Z'
 author: []
 related: []
 app_links: []
@@ -36,7 +36,7 @@ _type: MediaObject
 
 ---
 [][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c6c7cf5-eff6-4246-af4c-24ad1021be73.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/253adfc3ff1769f03559485d847f3bf48dddd60a.jpg)
 
 James Maxwell
 

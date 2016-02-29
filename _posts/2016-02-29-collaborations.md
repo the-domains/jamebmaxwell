@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: 'http://artspring.ca/event/the-moment-of-forgetting-restless-productions/'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T08:15:45.914Z'
-dateModified: '2016-02-29T08:15:40.678Z'
+datePublished: '2016-02-29T08:25:01.625Z'
+dateModified: '2016-02-29T08:24:52.993Z'
 title: Collaborations
 author: []
 sourcePath: _posts/2016-02-29-collaborations.md
@@ -19,22 +19,16 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+_type: MediaObject
 
 ---
 **Based on a True Story**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf7fa95c-2378-4e47-9de9-837f26b52539.jpg)
-
-http://www.restlessproductions.com/restless/Based\_on\_a\_True\_Story.html
 
 Claire French: choreographer
 
 Dancer: Caitlin Griffin, Musician: Marina Hasselberg (cello)
 
 **The Moment of Forgetting**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b794adf-0972-4424-896e-84cd9e8cecc5.jpg)
-
-http://artspring.ca/event/the-moment-of-forgetting-restless-productions/
 
 Claire French: choreographer
 
@@ -44,17 +38,13 @@ Musicians: Mark McGregor (flute), Marcus Takizawa (violin/viola), Marina Hasselb
 
 **Standing Wave Séance**
 
-[http://www.hadleyandmaxwell.net/standing-wave-seance-2/][0]
-
 Hadley+Maxwell, Seattle Art Museum
 
 **Just a Minute**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/600a99d7-6e5c-4aee-b166-9774e0f775bb.png)
-
-https://vimeo.com/49710553
 
 Allison Beda: filmaker, Claire French: choreographer
 
-Dancer: Jennifer Clarke 
-
-[0]: http://www.hadleyandmaxwell.net/standing-wave-seance-2/
+Dancer: Jennifer Clarke ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9c6891cf7ab711e399718632ed0eae2a9849123.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9829f6810f7ea2c028280dd4885c30c0a00ff3e0.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/96b7717e2ac444b7614527f64b66a6b44e421e51.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50877cc1-bd6c-4698-bfa7-137abb481639.jpg)

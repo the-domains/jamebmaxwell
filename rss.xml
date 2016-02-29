@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[JameBMaxwell]]></title>
         <description><![CDATA[JameBMaxwell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jamebmaxwell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 00:51:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 00:53:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jamebmaxwell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[James B. Maxwell: composer]]></title>
             <description><![CDATA[<article><h1>The Grid</h1></article>]]></description>
             <link>https://app.thegrid.io/sites/e66b139c-2803-493d-b934-3dceedc2cde0/posts/203680bf-9a31-4032-a8bf-745f669a1fce</link>
             <guid isPermaLink="false">b5c9a513-0fb6-4d44-b978-cf59a9d4c3ca</guid>
-            <pubDate>Mon, 29 Feb 2016 00:51:10 GMT</pubDate>
+            <pubDate>Mon, 29 Feb 2016 00:52:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

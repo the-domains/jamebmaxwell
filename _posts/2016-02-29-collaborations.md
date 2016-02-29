@@ -7,22 +7,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T02:17:42.781Z'
-dateModified: '2016-02-29T01:45:59.131Z'
+datePublished: '2016-02-29T08:11:50.837Z'
+dateModified: '2016-02-29T08:11:49.024Z'
 title: Collaborations
 author: []
+sourcePath: _posts/2016-02-29-collaborations.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-29-collaborations.md
-published: true
 _type: Blurb
 
 ---
 **Based on a True Story**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf7fa95c-2378-4e47-9de9-837f26b52539.jpg)
 
 http://www.restlessproductions.com/restless/Based\_on\_a\_True\_Story.html
 
@@ -31,6 +32,7 @@ Claire French: choreographer
 Dancer: Caitlin Griffin, Musician: Marina Hasselberg (cello)
 
 **The Moment of Forgetting**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b794adf-0972-4424-896e-84cd9e8cecc5.jpg)
 
 http://artspring.ca/event/the-moment-of-forgetting-restless-productions/
 
@@ -47,11 +49,12 @@ Musicians: Mark McGregor (flute), Marcus Takizawa (violin/viola), Marina Hasselb
 Hadley+Maxwell, Seattle Art Museum
 
 **Just a Minute**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/600a99d7-6e5c-4aee-b166-9774e0f775bb.png)
 
 https://vimeo.com/49710553
 
 Allison Beda: filmaker, Claire French: choreographer
 
-Dancer: Jennifer Clarke 
+Dancer: Jennifer Clarke ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2407aa1-c441-4ab4-83f4-6900784e3e33.jpg)
 
 [0]: http://www.hadleyandmaxwell.net/standing-wave-seance-2/

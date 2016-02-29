@@ -7,20 +7,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T00:51:10.683Z'
-dateModified: '2016-02-29T00:50:02.472Z'
+datePublished: '2016-02-29T00:52:53.255Z'
+dateModified: '2016-02-29T00:52:45.690Z'
 author: []
 related: []
 app_links: []
 title: 'James B. Maxwell: composer'
+sourcePath: _posts/2016-02-29-james-b-maxwell-composer.md
+published: true
 authors: []
 publisher:
   name: Thegrid
   domain: app.thegrid.io
   url: 'https://app.thegrid.io'
   favicon: 'https://app.thegrid.io/images/grid-logo-16.png'
-sourcePath: _posts/2016-02-29-james-b-maxwell-composer.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 

@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T08:33:51.585Z'
-dateModified: '2016-02-29T08:33:39.740Z'
+datePublished: '2016-02-29T08:38:14.656Z'
+dateModified: '2016-02-29T08:38:10.917Z'
 title: Collaborations
 author: []
 sourcePath: _posts/2016-02-29-collaborations.md

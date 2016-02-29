@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T08:25:01.625Z'
-dateModified: '2016-02-29T08:24:52.993Z'
+datePublished: '2016-02-29T08:27:41.460Z'
+dateModified: '2016-02-29T08:27:37.134Z'
 title: Collaborations
 author: []
 sourcePath: _posts/2016-02-29-collaborations.md
@@ -22,12 +22,6 @@ publisher:
 _type: MediaObject
 
 ---
-**Based on a True Story**
-
-Claire French: choreographer
-
-Dancer: Caitlin Griffin, Musician: Marina Hasselberg (cello)
-
 **The Moment of Forgetting**
 
 Claire French: choreographer
@@ -35,16 +29,22 @@ Claire French: choreographer
 Dancers: Daelik, Vanessa Goodman, Delphine Leroux, Darcy McMurray, Walter Kubanek
 
 Musicians: Mark McGregor (flute), Marcus Takizawa (violin/viola), Marina Hasselberg (cello), Mark Haney (contrabass)
-
-**Standing Wave Séance**
-
-Hadley+Maxwell, Seattle Art Museum
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9c6891cf7ab711e399718632ed0eae2a9849123.jpg)
 
 **Just a Minute**
 
 Allison Beda: filmaker, Claire French: choreographer
 
-Dancer: Jennifer Clarke ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9c6891cf7ab711e399718632ed0eae2a9849123.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9829f6810f7ea2c028280dd4885c30c0a00ff3e0.png)
+Dancer: Jennifer Clarke ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9829f6810f7ea2c028280dd4885c30c0a00ff3e0.png)
+
+**Standing Wave Séance**
+
+Hadley+Maxwell, Seattle Art Museum
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/96b7717e2ac444b7614527f64b66a6b44e421e51.jpg)
+
+**Based on a True Story**
+
+Claire French: choreographer
+
+Dancer: Caitlin Griffin, Musician: Marina Hasselberg (cello)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50877cc1-bd6c-4698-bfa7-137abb481639.jpg)

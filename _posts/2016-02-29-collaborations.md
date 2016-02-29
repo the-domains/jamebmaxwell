@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T08:27:41.460Z'
-dateModified: '2016-02-29T08:27:37.134Z'
+datePublished: '2016-02-29T08:31:26.530Z'
+dateModified: '2016-02-29T08:29:25.893Z'
 title: Collaborations
 author: []
 sourcePath: _posts/2016-02-29-collaborations.md
@@ -47,4 +47,4 @@ Hadley+Maxwell, Seattle Art Museum
 Claire French: choreographer
 
 Dancer: Caitlin Griffin, Musician: Marina Hasselberg (cello)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50877cc1-bd6c-4698-bfa7-137abb481639.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fc2aaf1e655f8a23c2d0a2d3d423d5c5f13fccd.jpg)

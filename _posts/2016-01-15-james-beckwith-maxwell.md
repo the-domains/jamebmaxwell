@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://rubato-music.com/home/JBM_Music.html'
 inLanguage: en
-starred: true
 keywords:
   - kyo
   - iwaasa
@@ -16,21 +15,23 @@ keywords:
   - houle
   - cello
   - nesselroad
-description: '"To listen is to be at the same time outside and inside, to be open from without and from within, hence from one to the other and from one in the other."'
-datePublished: '2016-02-29T08:01:33.855Z'
-dateModified: '2016-02-29T08:01:29.525Z'
-author: []
+description: ''
+datePublished: '2016-05-12T01:43:40.611Z'
+dateModified: '2016-04-30T21:30:47.246Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links: []
-title: James Beckwith Maxwell
+title: ''
 sourcePath: _posts/2016-01-15-james-beckwith-maxwell.md
-published: true
 authors: []
 publisher:
   name: Rubato-music
   domain: rubato-music.com
   url: 'http://rubato-music.com'
   favicon: 'http://rubato-music.com/favicon.ico'
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 

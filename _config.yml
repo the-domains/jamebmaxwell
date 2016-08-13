@@ -1,6 +1,6 @@
 name: James B Maxwell
 favicon: null
-layout_spectrum: 0.07944002468138933
+layout_spectrum: 0.06023
 typography_spectrum: 0.48687
 title: 'James B. Maxwell: composer'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#efdda2'
     - '#e6983d'
     - '#b3a045'
-  brandStrength: 0.125
+  brandStrength: 0.1875
   lightness: 0.375
   saturation: 0.375
   rhythmicContrast: 0.25

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[James B. Maxwell: composer]]></title>
-        <description><![CDATA[James B. Maxwell: composer]]></description>
+        <title><![CDATA[James B. Maxwell]]></title>
+        <description><![CDATA[James B. Maxwell]]></description>
         <link>http://jamesbmaxwell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 14:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 14:34:25 GMT</lastBuildDate>
         <atom:link href="http://jamesbmaxwell.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[James Beckwith Maxwell]]></title>
@@ -12,6 +12,13 @@
             <link>http://rubato-music.com/home/JBM_Music.html</link>
             <guid isPermaLink="false">203680bf-9a31-4032-a8bf-745f669a1fce</guid>
             <pubDate>Thu, 12 May 2016 01:44:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Research]]></title>
+            <description><![CDATA[<article><h1>Research</h1><p>MusiCog</p></article>]]></description>
+            <link>http://rubato-music.com/home/JBM_Research.html</link>
+            <guid isPermaLink="false">f92489cd-82c4-43e0-a9a1-9e127d9493de</guid>
+            <pubDate>Thu, 25 Aug 2016 14:34:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Music]]></title>

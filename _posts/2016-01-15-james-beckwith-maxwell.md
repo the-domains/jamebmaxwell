@@ -2,47 +2,51 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://rubato-music.com/home/JBM_Music.html'
+isBasedOnUrl: 'http://rubato-music.com/home/JBM_Research.html'
 inLanguage: en
 keywords:
-  - kyo
-  - iwaasa
-  - mcgregor
-  - flute
-  - piano
-  - rachel
-  - clarinet
-  - houle
-  - cello
-  - nesselroad
-description: ''
-datePublished: '2016-05-12T01:44:32.013Z'
-dateModified: '2016-05-12T01:43:49.072Z'
+  - music
+  - hsmm
+  - musicdb
+  - hierarchical
+  - composition
+  - cognition
+  - ica
+  - musicog
+  - sequential
+  - algorithmic
+description: MusiCog
+datePublished: '2016-08-25T14:34:07.290Z'
+dateModified: '2016-08-25T14:33:23.574Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
-title: ''
+title: Research
 sourcePath: _posts/2016-01-15-james-beckwith-maxwell.md
 authors: []
 publisher:
-  name: Rubato-music
+  name: ''
   domain: rubato-music.com
-  url: 'http://rubato-music.com'
+  url: ''
   favicon: 'http://rubato-music.com/favicon.ico'
-starred: true
+via: {}
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-[][0]
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/253adfc3ff1769f03559485d847f3bf48dddd60a.jpg)
+<article style=""><h1>Research</h1><p>"And yet the facts show that there are always new aerial dogs about; from which one must conclude that, despite what seem to our mind insurmountable obstacles, no species of dog, once extant, and no matter how curious it may be, ever dies out, or at least not easily, at least not without there being something in every species which puts up a long and successful resistance." - Franz Kafka, Investigations of a Dog</p></article>
 
-James Maxwell
+**MusiCog**
 
-is a composer of concert music and music for contemporary dance, theatre, film, and media, and is Co-Artistic Director of **Restless Productions**. Maxwell studied composition in Vancouver with Owen Underhill, David MacIntyre, Barry Truax, and Ladislav Kubik, and recently earned his PhD from Simon Fraser University. He has worked collaboratively with choreographers Claire French, Helen Walkley, Simone Orlando, and Joe Laughlin, director Mallory Catlett, film makers Alex Williams and Alison Beda, writer Caleb Johnson, and visual artists Kathleen Ritter and Hadley+Maxwell. Recent concert works include _recurrere _and _emancipare_, commissioned by **Music On Main **for**"The Orpheus Project", **and****_ruduo _for flute and piano, commissioned by the****Tiresias Duo**. **Recent works for dance include a re-visioning of Restless' 2012 full-length work**_The Moment of Forgetting_, **and**_Based on a True Story_, **for dancer and solo cello.
+Abstract
 
-James is also an active researcher and programmer in the field of computer applications for interactive music composition. His doctoral work explored the design and development of computer-assisted composition tools, with a focus on using intelligent, adaptive systems as compositional "collaborators."
+Music composition is an intellectually demanding human activity that engages a wide range of cognitive faculties. Although several domain-general integrated cognitive architectures (ICAs) exist---ACT-R, Soar, Icarus, etc.---the use of integrated models for solving musical problems remains virtually unexplored. In designing MusiCOG, we wanted to bring forward ideas from our previous work, and combine these with principles from the fields of music per- ception and cognition and ICA design, in an initial attempt at an integrated model. Here we provide an introduction to MusiCOG, outline the operation of its various modules, and share some initial musical results.
 
-[0]: null
+**ManuScore**
+
+Abstract
+
+ManuScore is a music notation-based, interactive music composition application, backed by a cognitively-inspired music learning and generation system. In this paper we outline its various functions, describe an applied composition study using the software, and give results from a study of listener evaluation of the music composed during the composition study. The listener study was conducted at a chamber music concert featuring a mixed programme of human-composed, machine-composed, and computer-assisted works.

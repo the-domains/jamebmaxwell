@@ -1,20 +1,4 @@
-name: James B Maxwell
-favicon: null
-layout_spectrum: 0.58531
 typography_spectrum: 0.48687
-title: 'James B. Maxwell: composer'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#3d898b'
@@ -26,4 +10,21 @@ color:
   lightness: 0
   saturation: 0.625
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.58531
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: James B Maxwell
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'James B. Maxwell: composer'
+description: composer
 purpose: []

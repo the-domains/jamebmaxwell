@@ -16,8 +16,8 @@ keywords:
   - sequential
   - algorithmic
 description: MusiCog
-datePublished: '2016-08-25T14:34:07.290Z'
-dateModified: '2016-08-25T14:33:23.574Z'
+datePublished: '2016-08-25T14:42:38.295Z'
+dateModified: '2016-08-25T14:41:49.089Z'
 author:
   - name: ''
     url: ''
@@ -25,13 +25,13 @@ related: []
 app_links: []
 title: Research
 sourcePath: _posts/2016-01-15-james-beckwith-maxwell.md
+via: {}
 authors: []
 publisher:
   name: ''
   domain: rubato-music.com
   url: ''
   favicon: 'http://rubato-music.com/favicon.ico'
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject

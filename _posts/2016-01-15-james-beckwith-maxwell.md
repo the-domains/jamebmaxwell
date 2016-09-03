@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:46:59.538Z'
+datePublished: '2016-08-31T15:04:59.579Z'
 sourcePath: _posts/2016-01-15-james-beckwith-maxwell.md
 inFeed: true
 isBasedOnUrl: 'http://rubato-music.com/home/JBM_Research.html'
@@ -21,7 +21,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-25T14:46:59.075Z'
+dateModified: '2016-08-31T15:04:58.887Z'
 title: Research
 app_links: []
 publisher: {}
